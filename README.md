@@ -1,6 +1,7 @@
 # BankerProject
 
 Purpose: 
+
 To desgin and implement a bank with the most efficient and clean object oriented design. 
 
 Design: 
